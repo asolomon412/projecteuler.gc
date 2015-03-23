@@ -7,7 +7,7 @@ public class Euler1 {
 				value += i;
 			}
 
-		}
+		} 
 		System.out.println(value);
 	}
 }
